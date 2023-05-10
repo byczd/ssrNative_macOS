@@ -1,0 +1,15 @@
+//
+//  totossr.pch
+//  ssrNative iOS
+//
+//  Created by 黄龙 on 2023/2/2.
+//  Copyright © 2023 ssrLive. All rights reserved.
+//
+
+#ifndef totossr_pch
+#define totossr_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "totossr.h"
+#endif /* totossr_pch */
